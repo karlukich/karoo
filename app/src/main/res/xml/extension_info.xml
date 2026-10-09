@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    id="pantallas"
+    displayName="@string/extension_name"
+    icon="@drawable/ic_app"
+    scansDevices="false">
+    <DataType
+        typeId="ruta-oscura"
+        displayName="@string/oscura_name"
+        description="@string/oscura_desc"
+        graphical="true"
+        icon="@drawable/ic_ruta" />
+    <DataType
+        typeId="ruta-clara"
+        displayName="@string/clara_name"
+        description="@string/clara_desc"
+        graphical="true"
+        icon="@drawable/ic_ruta_claro" />
+</ExtensionInfo>

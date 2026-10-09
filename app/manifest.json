@@ -1,0 +1,10 @@
+{
+  "label": "Karoo Pantallas",
+  "packageName": "com.carlos.karoopantallas",
+  "latestApkUrl": "https://github.com/TU_USUARIO/KarooPantallas/releases/latest/download/karoo-pantallas.apk",
+  "latestVersion": "1.0",
+  "latestVersionCode": 1,
+  "developer": "Carlos Castillo",
+  "description": "Cinco pantallas de datos a página completa: ruta, altimetría, zonas de potencia, zonas de pulso y carga.",
+  "releaseNotes": "Primera versión."
+}

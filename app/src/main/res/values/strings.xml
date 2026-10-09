@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Karoo Pantallas</string>
+    <string name="extension_name">Pantallas</string>
+
+    <string name="oscura_name">1B · Ruta (oscuro)</string>
+    <string name="oscura_desc">Velocidad y media, potencia con zona y normalizada, pulso con zona, pendiente, distancia y desnivel. Fondo negro.</string>
+    <string name="clara_name">1C · Ruta (claro)</string>
+    <string name="clara_desc">La misma pantalla con fondo claro, para pleno sol.</string>
+
+    <string name="main_text">Karoo Pantallas está instalada.\n\nPara usarla:\n1. Ve a Perfiles y elige uno.\n2. Añade una página nueva con un solo campo.\n3. Toca el campo, entra en «Pantallas» y elige 1B (oscuro) o 1C (claro).\n\nLas zonas de potencia y pulso salen de tu perfil del Karoo.</string>
+</resources>
